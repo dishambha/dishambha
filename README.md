@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Dishambha
-- 👀 I’m interested in Learning Coding . 
-- 🌱 I’m currently learning Python and C . Doing Btech First year
-- 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me .. dishambhaawasthi0131@gmail.com
+- Hi, I’m Dishambha Awasthi
+- Persuing B.tech (CSE) second year.
+- I’m interested in programming. 
+- I’m currently learning C and C++ .
+- I’m looking to collaborate on Anything
+- How to reach me .. dishambhaawasthi0131@gmail.com
 
 <!---
 dishambha/dishambha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
