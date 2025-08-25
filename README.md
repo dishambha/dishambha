@@ -1,5 +1,5 @@
 - Hi, I’m Dishambha Awasthi
-- Persuing B.tech (CSE) second year.
+- Persuing B.tech (CSE) final year.
 - I’m interested in programming. 
 - I’m currently learning C and C++ .
 - I’m looking to collaborate on Anything
