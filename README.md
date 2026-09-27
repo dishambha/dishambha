@@ -12,7 +12,7 @@ I enjoy building things, learning how they work, and turning ideas into practica
 <a href="https://github.com/dishambha">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/dishambha_awasthi">
+<a href="https://www.linkedin.com/in/dishambha-awasthi/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:dishambhaawasthi0131@gmail.com">
