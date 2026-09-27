@@ -1,213 +1,278 @@
-<h1>💫 About Me</h1>
+<div align="center">
+
+# 👋 Hey, I'm **Dishambha Awasthi**
+
+### 🤖 AI/ML Engineer in the Making • GenAI Explorer • Builder
 
 <p>
-👋 <strong>Hi, I'm Dishambha Awasthi</strong><br><br>
-I am a Computer Science Engineering student focused on <strong>Artificial Intelligence, Machine Learning, Generative AI, and Backend Development</strong>.
-I enjoy building practical AI systems, experimenting with local and cloud-based models, and turning ideas into working applications.
+  <em>Turning ideas into intelligent systems, one experiment at a time.</em>
 </p>
 
 <p>
-🔭 <strong>What I'm Currently Working On</strong>
-<ul>
-  <li>🤖 Building <strong>MIRA</strong> — a multi-model AI assistant with intelligent query routing</li>
-  <li>🧠 Exploring <strong>LLMs, RAG, AI agents, and model orchestration</strong></li>
-  <li>⚡ Building AI backends and APIs using <strong>Python and FastAPI</strong></li>
-  <li>🎥 Exploring AI-powered <strong>image, video, and voice generation workflows</strong></li>
-  <li>💻 Experimenting with <strong>local AI models using Ollama</strong></li>
-  <li>📊 Working with SQL, Power BI, and data analytics alongside AI development</li>
-</ul>
+  <a href="https://github.com/dishambha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dishambha_awasthi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dishambhaawasthi0131@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=dishambha&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 🧠 Who Am I?
+
+```python
+class Dishambha:
+
+    role = "Computer Science Engineer"
+    
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Generative AI",
+        "LLMs & RAG",
+        "AI Agents",
+        "Backend Engineering"
+    ]
+
+    currently_building = "MIRA 🤖"
+
+    philosophy = "Learn → Build → Break → Improve → Repeat 🚀"
+```
+
+I'm a Computer Science Engineering student passionate about **AI, Machine Learning and Generative AI**.
+
+I like going beyond tutorials — taking an idea, experimenting with different models and technologies, and turning it into a **working system**.
+
+Currently exploring the intersection of:
+
+> **LLMs + RAG + AI Agents + Model Routing + Backend Systems**
+
+---
+
+# 🚀 What I'm Building
+
+### 🤖 MIRA — Multi-Model AI Assistant
+
+> **One assistant. Multiple models. Intelligent routing.**
+
+MIRA is an experimental AI assistant that uses a **routing layer to understand a user's request and send it to the most appropriate specialized model**.
+
+**Current exploration:**
+
+* 🧠 Query classification
+* 🔀 Intelligent model routing
+* 🤖 Multiple specialized AI models
+* 🏠 Local LLMs with Ollama
+* ⚡ FastAPI backend
+* 🔌 Modular AI architecture
+
+---
+
+### ⚖️ NyayaGPT — Agentic RAG
+
+An experimental **AI-powered legal information system** exploring how LLMs can work with external knowledge.
+
+**Stack:**
+
+`Python` `LangChain` `RAG` `Groq` `LLMs`
+
+---
+
+### 🌐 Personal Messages Board
+
+A full-stack web application built to learn real-world backend development.
+
+**Stack:**
+
+`FastAPI` `PostgreSQL` `SQLAlchemy` `JavaScript`
+
+**Deployment:**
+
+`Render` + `Netlify`
+
+---
+
+# 🧪 Current AI Playground
+
+```text
+                 ┌───────────────────┐
+                 │      USER         │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │   MIRA ROUTER     │
+                 │                   │
+                 │  Understand      │
+                 │  Classify        │
+                 │  Route           │
+                 └─────────┬─────────┘
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+        ┌─────────┐   ┌─────────┐   ┌─────────┐
+        │  Qwen   │   │   RAG   │   │  Other  │
+        │  LLM    │   │  Model  │   │ Models  │
+        └─────────┘   └─────────┘   └─────────┘
+```
+
+### 🎯 Long-term Direction
+
+I'm interested in building systems that combine:
+
+**AI Models → Intelligent Routing → Agents → Multimodal AI → Content Generation**
+
+One of my long-term goals is to explore **AI-powered YouTube/video generation pipelines**, combining image generation, video generation, voice synthesis and intelligent orchestration.
+
+---
+
+# ⚡ Tech Stack
+
+### 🧠 AI / Machine Learning
+
 <p>
-🧠 <strong>Currently Learning</strong>
-<ul>
-  <li>Generative AI and Large Language Models</li>
-  <li>Retrieval-Augmented Generation (RAG)</li>
-  <li>AI Agents and Multi-Agent Systems</li>
-  <li>LLM routing and model orchestration</li>
-  <li>Machine Learning fundamentals and practical implementation</li>
-  <li>Data Structures and Algorithms using C++</li>
-  <li>SQL and data engineering concepts</li>
-</ul>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
+### ⚙️ Backend & Development
+
 <p>
-🤝 <strong>Interested in Collaborating On</strong>
-<ul>
-  <li>AI / ML projects</li>
-  <li>Generative AI applications</li>
-  <li>LLM and RAG projects</li>
-  <li>AI agents and automation</li>
-  <li>Backend APIs and AI-powered applications</li>
-  <li>Data analytics and visualization projects</li>
-  <li>Open-source AI projects</li>
-</ul>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
+### 🗄️ Data & Databases
+
 <p>
-💬 <strong>Ask Me About</strong>
-<ul>
-  <li>Python and AI/ML</li>
-  <li>Generative AI and LLMs</li>
-  <li>RAG and LangChain</li>
-  <li>FastAPI and backend development</li>
-  <li>SQL and data analysis</li>
-  <li>Power BI dashboards</li>
-  <li>Machine Learning fundamentals</li>
-  <li>C++ and DSA basics</li>
-</ul>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-<h2>🚀 Featured Projects</h2>
-
-<ul>
-  <li>
-    <strong>MIRA — Multi-Model AI Assistant</strong><br>
-    An AI assistant that uses an intelligent routing layer to classify user requests and route them to specialized AI models.
-  </li>
-  <li>
-    <strong>NyayaGPT — Agentic RAG Legal Assistant</strong><br>
-    An experimental AI system using RAG, LangChain, and LLM APIs for legal information retrieval.
-  </li>
-  <li>
-    <strong>Personal Messages Board</strong><br>
-    Full-stack application built with FastAPI, PostgreSQL, and a web frontend, deployed using Render and Netlify.
-  </li>
-  <li>
-    <strong>Smart Drive</strong><br>
-    Computer vision based accident and alcohol detection system developed for road safety.
-  </li>
-  <li>
-    <strong>Power BI Analytics Projects</strong><br>
-    Interactive dashboards for analyzing business data, KPIs, trends, and performance.
-  </li>
-</ul>
-
-<h2>🛠️ Technical Skills</h2>
+### 📊 Analytics & Visualization
 
 <p>
-<strong>Programming:</strong><br>
-Python • C++ • C • Dart • Java
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
+### 💻 Languages & Tools
+
 <p>
-<strong>AI / Machine Learning:</strong><br>
-Machine Learning • Scikit-learn • NumPy • Pandas • SciPy • OpenCV • Generative AI • LLMs • RAG
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-<p>
-<strong>AI / LLM Tools:</strong><br>
-LangChain • Groq • Ollama • LLM APIs
-</p>
+---
 
-<p>
-<strong>Backend & APIs:</strong><br>
-FastAPI • Flask • REST APIs • Pydantic • Swagger • Postman
-</p>
+# 📚 Currently Learning
 
-<p>
-<strong>Data & Databases:</strong><br>
-SQL • MySQL • PostgreSQL • SQLite • MongoDB • Data Analysis • EDA
-</p>
+```text
+AI / ML
+├── Machine Learning
+├── Deep Learning
+├── LLMs
+├── RAG
+├── AI Agents
+└── Multimodal AI
 
-<p>
-<strong>Visualization & BI:</strong><br>
-Power BI • DAX • Matplotlib • Seaborn • Plotly
-</p>
+Engineering
+├── FastAPI
+├── System Design
+├── APIs
+├── Databases
+└── Cloud Deployment
 
-<p>
-<strong>Development & Cloud:</strong><br>
-Git • GitHub • Docker • Netlify • Render • Vercel • Google Cloud
-</p>
+Foundations
+├── DSA — C++
+├── SQL
+└── Data Engineering
+```
 
-<p>
-<strong>Other Technologies:</strong><br>
-Flutter • Django • HTML • Bootstrap • Figma • Canva
-</p>
+---
 
-<h2>📚 My Current Focus</h2>
+# 🎯 2026 Goals
 
-<p>
-I'm currently working toward becoming a stronger <strong>AI/ML Engineer</strong> by combining machine learning fundamentals with modern Generative AI technologies.
-</p>
+* [x] Build and deploy real-world applications
+* [x] Start experimenting with local LLMs
+* [x] Build an AI model-routing system
+* [x] Explore RAG applications
+* [ ] Go deeper into Machine Learning
+* [ ] Learn Deep Learning properly
+* [ ] Build more AI agents
+* [ ] Explore multimodal AI
+* [ ] Build an AI-powered video generation pipeline
+* [ ] Contribute to open source
 
-<p>
-My current learning path includes:
-</p>
+---
 
-<p>
-<strong>Python → ML → Deep Learning → LLMs → RAG → AI Agents → AI Systems</strong>
-</p>
+# 📊 GitHub Stats
 
-<h2>🌐 Connect With Me</h2>
+<div align="center">
 
-<p>
+<img src="https://nirzak-streak-stats.vercel.app/?user=dishambha&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dishambha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/dishambha_awasthi">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://www.instagram.com/dishambha.dev">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://pinterest.com/dishambhaa">
-  <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest">
-</a>
+
 <a href="mailto:dishambhaawasthi0131@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
-
-<h2>💻 Tech Stack</h2>
-
-<p>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/LLM-Generative%20AI-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-</p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=dishambha&theme=onedark&hide_border=false" alt="GitHub Streak">
 
 </div>
-
-<br>
-
-<h2>🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dishambha&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-
-</div>
-
-<br>
-
-<h2>⚡ Fun Fact</h2>
-
-<p>
-I enjoy taking an idea, experimenting with different AI models and tools, and turning it into something that actually works. 🤖⚡
-</p>
 
 ---
 
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=dishambha&icon=0&color=0" alt="Profile Views">
+### ⚡ *Build. Experiment. Break. Learn. Repeat.*
+
+<img src="https://visitcount.itsvg.in/api?id=dishambha&icon=0&color=0" />
 
 </div>
